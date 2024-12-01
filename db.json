@@ -1,0 +1,74 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Nguyễn Anh Tuấn",
+      "age": 20,
+      "email": "Tuan@gmail.com.vn",
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/m/b/mba13-m3-spacegray-gallery1-2024_2.png"
+    },
+    {
+      "id": "2",
+      "name": "Nguyễn Văn A",
+      "age": 21,
+      "email": "aa@gmail.com.vn",
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/m/a/macbook-air-m3-13-inch-2024_1__4_3.png"
+    },
+    {
+      "id": "3",
+      "name": "Nguyễn Văn B",
+      "age": 22,
+      "email": "bb@gmail.com.vn",
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/m/b/mba13-m3-starlight-gallery1-2024_1.png"
+    },
+    {
+      "id": "4",
+      "name": "Nguyễn Văn C",
+      "age": 23,
+      "email": "cc@gmail.com.vn",
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/m/b/mba13-m3-silver-gallery1-202402_3.png"
+    },
+    {
+      "id": "5",
+      "name": "Nguyễn Văn D",
+      "age": 24,
+      "email": "dd@gmail.com.vn",
+      "image": "https://example.com/images/nguyen-van-d.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Nguyễn Văn E",
+      "age": 12,
+      "email": "ee@gmail.com.vn",
+      "image": "https://example.com/images/nguyen-van-e.jpg"
+    },
+    {
+      "id": "5c5b",
+      "name": "â",
+      "age": 21,
+      "email": "tuan@gmail.com",
+      "image": "https://example.com/images/nguyen-van-b.jpg"
+    },
+    {
+      "id": "6ef1",
+      "name": "tuấn ng",
+      "age": 12,
+      "email": "tuan@gmai.com",
+      "image": "https://cdn2.fptshop.com.vn/unsafe/384x0/filters:quality(100)/2020_11_12_637407967465159041_mba-2020-gold-5.png"
+    },
+    {
+      "id": "710d",
+      "name": "tuấn ng",
+      "age": 23,
+      "email": "tuan@gmail.com",
+      "image": "https://cdn2.fptshop.com.vn/unsafe/384x0/filters:quality(100)/2020_11_12_637407967465159041_mba-2020-gold-5.png"
+    },
+    {
+      "id": "6cbe",
+      "name": "sinh viên 7",
+      "age": 25,
+      "email": "tuan@gmai.com",
+      "image": "https://cdn2.fptshop.com.vn/unsafe/384x0/filters:quality(100)/2020_11_12_637407967465159041_mba-2020-gold-5.png"
+    }
+  ]
+}
